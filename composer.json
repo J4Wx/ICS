@@ -1,5 +1,5 @@
 {
-  "name": "J4Wx/ICS",
+  "name": "j4wx/ics",
   "description": "Calendar class allowing generation of .ics files",
   "autoload": {
     "psr-4": {
