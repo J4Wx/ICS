@@ -4,6 +4,10 @@ Calendar and Event generator in the ICAL format.
   
 Can be output as a string or downloaded using the download function.
 
+```
+composer require j4wx/ics
+```
+
 ##### Example
 ```php
 use J4Wx\ICS\Calendar;
